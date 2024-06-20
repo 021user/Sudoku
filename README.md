@@ -15,7 +15,7 @@ Ce projet est une application de Sudoku qui permet aux utilisateurs de jouer à 
 1. Clonez ce dépôt :
    ```sh
 git clone https://github.com/021user/Sudoku-VB.git
-   ``
+   ```
 2. Ouvrez le projet dans votre IDE préféré.
 3. Assurez-vous que les fichiers de ressources (images et musique) sont accessibles dans le répertoire `src/Resources/`.
 
