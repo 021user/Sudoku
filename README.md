@@ -1,3 +1,6 @@
+Voici le contenu complet pour votre `README.md` avec les sections correctement formatées pour s'assurer qu'elles ne sont pas coupées.
+
+```markdown
 # Sudoku Project
 
 ## Description
@@ -14,8 +17,24 @@ Ce projet est une application de Sudoku qui permet aux utilisateurs de jouer à 
 ## Installation
 1. Clonez ce dépôt :
    ```sh
-   git clone https://github.com/votre-utilisateur/sudoku-project.git
+git clone https://github.com/021user/Sudoku-VB.git
+   ```
+2. Ouvrez le projet dans votre IDE préféré.
+3. Assurez-vous que les fichiers de ressources (images et musique) sont accessibles dans le répertoire `src/Resources/`.
 
-2. Ouvrez le projet dans votre IDE préféré (Visual Basic de préférence).
+## Utilisation
+- **Lancer l'Application** : Exécutez le fichier `Menu.vb` pour lancer l'application.
+- **Ajouter un Joueur** : Entrez un nouveau nom dans le champ de saisie et appuyez sur `Entrer`.
+- **Commencer une Partie** : Sélectionnez un joueur, choisissez la taille de la grille et commencez à jouer.
 
-3. Assurez-vous que les fichiers de ressources (images et musique) sont accessibles dans le répertoire src/Resources/.
+## Structure des Fichiers
+- **Menu.vb** : Interface principale de l'application.
+- **Player.vb** : Classe représentant un joueur.
+- **PlayerStatisticsForm.vb** : Interface pour afficher les statistiques des joueurs.
+- **GameForm.vb** : Interface pour jouer au Sudoku 9x9.
+- **GameForm16x16.vb** : Interface pour jouer au Sudoku 16x16.
+- **Resources/** : Répertoire contenant les ressources du projet (images, musique).
+- **joueur.txt** : Fichier texte pour sauvegarder les données des joueurs.
+
+## Contributions
+Les contributions sont les bienvenues ! Veuillez ouvrir une issue pour discuter de ce que vous aimeriez changer.
